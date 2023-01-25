@@ -20,6 +20,8 @@ Audio
 <br>
 Text Rendering
 <br>
+Math functions for vectors, matrixes, and other important geometry
+<br>
 Lighting (could however be made very easily with GameObject system)
 <br>
 Logging
