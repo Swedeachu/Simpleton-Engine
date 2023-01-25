@@ -13,14 +13,14 @@ Collision checking on all game objects
 Scalable iteration functions for game objects
 <br>
 
-# What this doesn't have
+# What this doesn't have (You will need to implement all this on top of this base)
 Physics
 <br>
 Audio
 <br>
 Text Rendering
 <br>
-Math functions for vectors, matrixes, and other important geometry
+Math functions for vectors, matrixes, shapes, and other important geometry
 <br>
 Lighting (could however be made very easily with GameObject system)
 <br>
