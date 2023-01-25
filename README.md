@@ -1,7 +1,7 @@
 # Simpleton Engine
 Very simple 2D engine base in C using DGL. Meant for simply a game object and game state changing system skeleton.
+
 # What this has
-<br>
 Project set up using DGL
 <br>
 Frame updating in a window with game state changing for init, update, and exit
@@ -11,8 +11,9 @@ Game Objects with position, collider, and mesh properties
 Collision checking on all game objects
 <br>
 Scalable iteration functions for game objects
-# What this doesn't have
 <br>
+
+# What this doesn't have
 Physics
 <br>
 Audio
